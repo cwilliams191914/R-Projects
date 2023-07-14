@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Jul 11 22:23:52 EDT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0189-47e9-7f4c-00000186e980 
+on database directory memory:C:\Users\sigma\OneDrive\lab_65_sparklyr\databaseName=metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@1c96e84 
+Loaded from file:/C:/Users/sigma/AppData/Local/spark/spark-3.3.1-bin-hadoop3/jars/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_371-b11
+user.dir=C:\Users\sigma\OneDrive\lab_65_sparklyr
+os.name=Windows 11
+os.arch=x86
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
